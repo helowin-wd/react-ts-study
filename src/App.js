@@ -1,6 +1,8 @@
 import './App.css';
 
-import Father from './FatherChild/Father';
+// import Father from './FatherChild/Father';
+import Father from './Context/Father';
+
 
 function App() {
   return (
